@@ -9,7 +9,11 @@ Please see our initial results published [here](http://ieeexplore.ieee.org/docum
 
 # Real Time Tracking Videos
 
-The videos below demonstrate real-time and simultaneous tracking of three body parts- hand, lips, and forehead for the following instances-
+<p align="center">
+  <img src="https://github.com/tashrifbillah/Distraction-Recognition-of-a-Driver/blob/master/Tracking_Figure.jpg">
+</p>
+
+The videos in this above repository demonstrate real-time and simultaneous tracking of three body parts- hand, lips, and forehead for the following instances. It also shows the evolution of trajectory-based features i.e. hand-lips distance and hand-forehead distance, as tracking progresses over time. Challenging scenarios such as- illumination variation, out of the frame hand movement, road bumping are shown in the video to corroborate robustness of our algorithm. In particular, the tracking videos depict the following actions-
 
 1. [Driving attentively]()
 2. [Eating snacks while driving]()
