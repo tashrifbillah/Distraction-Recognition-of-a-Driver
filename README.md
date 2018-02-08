@@ -15,11 +15,11 @@ Please see our initial results published [here](http://ieeexplore.ieee.org/docum
 
 The videos in this repository demonstrate real-time and simultaneous tracking of three body parts- hand, lips, and forehead for the following instances. It also shows the evolution of trajectory-based features i.e. hand-lips distance and hand-forehead distance, as tracking progresses over time. Challenging scenarios such as- illumination variation, out of the frame hand movement, road bumping are shown in the video to corroborate robustness of our algorithm. In particular, the tracking videos depict the following actions-
 
-1. [Driving attentively]()
-2. [Eating snacks while driving]()
-3. [Talking on cell phone during driving]()
-4. [Texting while driving]()
-5. [Operating cabin equipment during driving]()
+1. [Driving attentively](https://github.com/tashrifbillah/Distraction-Recognition-of-a-Driver/blob/master/Attentive_high_res.mp4)
+2. [Eating snacks while driving](https://github.com/tashrifbillah/Distraction-Recognition-of-a-Driver/blob/master/Eating_high_res.mp4)
+3. [Talking on cell phone during driving](https://github.com/tashrifbillah/Distraction-Recognition-of-a-Driver/blob/master/Cell_phone_high_res.mp4)
+4. [Texting while driving](https://github.com/tashrifbillah/Distraction-Recognition-of-a-Driver/blob/master/Texting_high_res.mp4)
+5. [Operating cabin equipment during driving](https://github.com/tashrifbillah/Distraction-Recognition-of-a-Driver/blob/master/Inattentive_high_res.mp4)
 
 
 # Database Description
