@@ -5,7 +5,7 @@ actions of the driver. Then, the well-known kernel support vector machine is app
 
 # Research Paper
 
-Please see our initial results published [here](http://ieeexplore.ieee.org/document/7738077/) in 13 IEEE AVSS, Colorado Springs, Colorado
+Please see our initial results published [here](http://ieeexplore.ieee.org/document/7738077/) in 13th IEEE AVSS, Colorado Springs, Colorado
 
 # Real Time Tracking Videos
 
